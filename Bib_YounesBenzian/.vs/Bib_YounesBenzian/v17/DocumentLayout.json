@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|c:\\users\\youne\\downloads\\bib_younesbenziandeelopdracht3 (2)\\bib_younesbenzian\\bib_younesbenzian\\readingroomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|solutionrelative:bib_younesbenzian\\readingroomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|c:\\users\\youne\\downloads\\bib_younesbenziandeelopdracht3 (2)\\bib_younesbenzian\\bib_younesbenzian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|solutionrelative:bib_younesbenzian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|c:\\users\\youne\\downloads\\bib_younesbenziandeelopdracht3 (2)\\bib_younesbenzian\\bib_younesbenzian\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|solutionrelative:bib_younesbenzian\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|c:\\users\\youne\\downloads\\bib_younesbenziandeelopdracht3 (2)\\bib_younesbenzian\\bib_younesbenzian\\ilendable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|solutionrelative:bib_younesbenzian\\ilendable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|c:\\users\\youne\\downloads\\bib_younesbenziandeelopdracht3 (2)\\bib_younesbenzian\\bib_younesbenzian\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|solutionrelative:bib_younesbenzian\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|c:\\users\\youne\\downloads\\bib_younesbenziandeelopdracht3 (2)\\bib_younesbenzian\\bib_younesbenzian\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB331DFF-4E3E-4B1D-A815-502F18C52FDF}|Bib_YounesBenzian\\Bib_YounesBenzian.csproj|solutionrelative:bib_younesbenzian\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Library.cs",
+              "RelativeDocumentMoniker": "Bib_YounesBenzian\\Library.cs",
+              "ToolTip": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Library.cs",
+              "RelativeToolTip": "Bib_YounesBenzian\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:33:07.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Program.cs",
+              "RelativeDocumentMoniker": "Bib_YounesBenzian\\Program.cs",
+              "ToolTip": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Program.cs",
+              "RelativeToolTip": "Bib_YounesBenzian\\Program.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAAAOsBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:30:00.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Genre.cs",
+              "RelativeDocumentMoniker": "Bib_YounesBenzian\\Genre.cs",
+              "ToolTip": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Genre.cs",
+              "RelativeToolTip": "Bib_YounesBenzian\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:15:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILendable.cs",
+              "DocumentMoniker": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\ILendable.cs",
+              "RelativeDocumentMoniker": "Bib_YounesBenzian\\ILendable.cs",
+              "ToolTip": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\ILendable.cs",
+              "RelativeToolTip": "Bib_YounesBenzian\\ILendable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:03:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Book.cs",
+              "RelativeDocumentMoniker": "Bib_YounesBenzian\\Book.cs",
+              "ToolTip": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\Book.cs",
+              "RelativeToolTip": "Bib_YounesBenzian\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:01:10.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadingRoomItem.cs",
+              "DocumentMoniker": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\ReadingRoomItem.cs",
+              "RelativeDocumentMoniker": "Bib_YounesBenzian\\ReadingRoomItem.cs",
+              "ToolTip": "C:\\Users\\youne\\Downloads\\Bib_YounesBenzianDeelopdracht3 (2)\\Bib_YounesBenzian\\Bib_YounesBenzian\\ReadingRoomItem.cs",
+              "RelativeToolTip": "Bib_YounesBenzian\\ReadingRoomItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:29:52.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
