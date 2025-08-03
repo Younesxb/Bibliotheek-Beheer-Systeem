@@ -68,3 +68,18 @@ C:\Users\youne\Downloads\Bib_YounesBenzianDeelopdracht3 (2)\Bib_YounesBenzian\Bi
 C:\Users\youne\Downloads\Bib_YounesBenzianDeelopdracht3 (2)\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.pdb
 C:\Users\youne\Downloads\Bib_YounesBenzianDeelopdracht3 (2)\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.genruntimeconfig.cache
 C:\Users\youne\Downloads\Bib_YounesBenzianDeelopdracht3 (2)\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\ref\Bib_YounesBenzian.dll
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\bin\Debug\net6.0\Bib_YounesBenzian.exe
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\bin\Debug\net6.0\Bib_YounesBenzian.deps.json
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\bin\Debug\net6.0\Bib_YounesBenzian.runtimeconfig.json
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\bin\Debug\net6.0\Bib_YounesBenzian.dll
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\bin\Debug\net6.0\Bib_YounesBenzian.pdb
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.AssemblyInfoInputs.cache
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.AssemblyInfo.cs
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.csproj.CoreCompileInputs.cache
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.sourcelink.json
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.dll
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\refint\Bib_YounesBenzian.dll
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.pdb
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\Bib_YounesBenzian.genruntimeconfig.cache
+C:\Users\youne\Desktop\Bibliotheek-Beheer-Systeem\Bib_YounesBenzian\Bib_YounesBenzian\obj\Debug\net6.0\ref\Bib_YounesBenzian.dll

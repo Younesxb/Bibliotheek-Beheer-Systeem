@@ -10,14 +10,17 @@
 
             Library bib_younes = new Library("Bib_Younes");
 
-            Console.WriteLine("Welkom bij Bib_Younes! ");
+            Console.WriteLine("Welkom in het bibliotheekbeheersysteem! ");
+            Console.WriteLine("Druk op enter op verder te gaan...");
+            Console.ReadLine();
 
             bool goOn = true;
 
             while (goOn)
             {
       
-                Console.WriteLine("Kies een optie:");
+                Console.WriteLine("Kies een optie tussen 1-13 :");
+                Console.WriteLine(" ");
                 Console.WriteLine("1.  Voeg een boek toe");
                 Console.WriteLine("2.  Voeg informatie toe aan een boek");
                 Console.WriteLine("3.  Toon informatie van een boek");
@@ -31,7 +34,9 @@
                 Console.WriteLine("11. Boek ontlenen");
                 Console.WriteLine("12. Boek terugbrengen");
                 Console.WriteLine("13. Toon alle boeken");
+                Console.WriteLine(" ");
                 Console.WriteLine("14. Exit");
+                Console.WriteLine("");
                 Console.Write("Keuze: ");
 
                 int choice = Convert.ToInt32(Console.ReadLine());
@@ -95,7 +100,7 @@
                        
                     case 14:
                         Console.Clear();
-                        Console.WriteLine("GAME OVER");
+                        Console.WriteLine("U hebt gekozen voor het programma af te sluiten.");
 
                         goOn = false;
                         break;
@@ -111,6 +116,9 @@
        
         public static void addBookToBib(Library bib)
         {
+            Console.WriteLine("U hebt gekozen om een nieuw boek toe te voegen. ");
+            Console.WriteLine("Druk op enter op verder te gaan...");
+            Console.ReadLine();
             try
             {
                 Console.Write("Titel: ");
@@ -145,6 +153,10 @@
         }
         public static void addInformationToBib(Library bib)
         {
+            showAllBooks(bib);
+
+
+
             try
             {
                 Console.Write("Wat is de titel van het boek: ");
@@ -169,17 +181,23 @@
                             Console.Write("ISBN: ");
                             long isbn = long.Parse(Console.ReadLine());
                             foundBook.ISBN = isbn;
+                            Console.ForegroundColor= ConsoleColor.Green;
+                            Console.WriteLine("U hebt succesvol ISBN toegevoegd");
                             break;
                         case 2:
                             Console.Write("Publicatie jaar: ");
                             int publicationYear = Convert.ToInt32(Console.ReadLine());
                             foundBook.PublicationYear = publicationYear;
+                            Console.WriteLine("U hebt succesvol publicatie jaar toegevoegd");
                             break;
 
                         case 3:
                             Console.Write("Taal: ");
                             string language = Console.ReadLine();
                             foundBook.Language = language;
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine($"U hebt succesvol de taal {language} toegevoegd");
+                            Console.ResetColor();
                             break;
                         default:
                             Console.ForegroundColor = ConsoleColor.Red;
@@ -187,6 +205,7 @@
                             Console.ResetColor();
                             break;
                     }
+
                 }
                 else
                 {
@@ -216,6 +235,9 @@
 
         public static void showBookInformation(Library bibliotheek)
         {
+
+            showAllBooks(bibliotheek);
+
             Console.Write("Wat is het titel van het boek: ");
             string title = Console.ReadLine();
             Console.Write("Wie is de auteur van het boek: ");
@@ -241,6 +263,7 @@
        
         public static void searchBook(Library bib)
         {
+
             Console.WriteLine("Hoe wil je het boek zoeken?");
             Console.WriteLine("1. Op titel en auteur");
             Console.WriteLine("2. Op ISBN");
@@ -345,6 +368,7 @@
 
         public static void removeTheBookFromBib(Library bib)
         {
+            showAllBooks(bib);
             Console.Write("Titel van het te verwijderen boek: ");
             string title = Console.ReadLine();
             Console.Write("Auteur van het te verwijderen boek: ");
@@ -371,6 +395,14 @@
         public static void showAllBooks(Library bib)
         {
             Console.WriteLine("Alle boeken in de bibliotheek:");
+
+            if (bib.Books.Count == 0)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("De bibliotheek is leeg.");
+                Console.ResetColor();
+                return;
+            }
 
             foreach (Book boek in bib.Books)
             {

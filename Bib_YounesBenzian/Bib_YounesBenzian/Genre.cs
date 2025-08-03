@@ -8,6 +8,7 @@ namespace Bib_YounesBenzian
 {
     internal enum Genre
     {
+        Onbekend,
         Fictie,
         NonFictie,
         Mysterie,

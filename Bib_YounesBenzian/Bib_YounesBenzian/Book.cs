@@ -188,15 +188,18 @@ namespace Bib_YounesBenzian
         }
         public void DisplayInfo()
         {
-            Console.WriteLine($"Titel: {this.Title}");
-            Console.WriteLine($"Auteur: {this.Author}");
-            Console.WriteLine($"ISBN: {this.ISBN}");
-            Console.WriteLine($"Genre: {this.Genre}");
-            Console.WriteLine($"Uitgever: {this.Publisher}");
-            Console.WriteLine($"Publicatiejaar: {this.PublicationYear}");
-            Console.WriteLine($"Aantal pagina's: {this.Pages}");
-            Console.WriteLine($"Taal: {this.Language}");
+            Console.WriteLine($"Titel: {(string.IsNullOrWhiteSpace(this.Title) ? "Moet nog ingevuld worden" : this.Title)}");
+            Console.WriteLine($"Auteur: {(string.IsNullOrWhiteSpace(this.Author) ? "Moet nog ingevuld worden" : this.Author)}");
+            Console.WriteLine($"ISBN: {(this.ISBN == 0 ? "Moet nog ingevuld worden" : this.ISBN.ToString())}");
+
+            Console.WriteLine($"Genre: {(this.Genre == Genre.Onbekend ? "Moet nog ingevuld worden" : this.Genre.ToString())}");
+            Console.WriteLine($"Uitgever: {(string.IsNullOrWhiteSpace(this.Publisher) ? "Moet nog ingevuld worden" : this.Publisher)}");
+
+            Console.WriteLine($"Publicatiejaar: {(this.PublicationYear == 0 ? "Moet nog ingevuld worden" : this.PublicationYear.ToString())}");
+            Console.WriteLine($"Aantal pagina's: {(this.Pages == 0 ? "Moet nog ingevuld worden" : this.Pages.ToString())}");
+            Console.WriteLine($"Taal: {(string.IsNullOrWhiteSpace(this.Language) ? "Moet nog ingevuld worden" : this.Language)}");
         }
+
     }
 }
 
